@@ -1,0 +1,6 @@
+﻿  MyString.cpp
+D:\C#\String-Targem\String-Targem\MyString.h(19,1): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\C#\String-Targem\String-Targem\MyString.h(74,1): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+D:\C#\String-Targem\String-Targem\MyString.h(75,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C#\String-Targem\String-Targem\MyString.h(79,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C#\String-Targem\String-Targem\MyString.h(80,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
